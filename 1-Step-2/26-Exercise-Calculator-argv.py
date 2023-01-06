@@ -27,3 +27,7 @@ def main():
         exit()
     print(result)
 main()
+
+# To run program in terminal
+#   - 26-Exercise-Calculator-argv.py argv
+#   - 26-Exercise-Calculator-argv.py 5 + 1
