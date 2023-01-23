@@ -7,3 +7,4 @@ for v in values:
         print("False Value: ", v)
 
 # Check output in console
+"""None is like undef of Null or Nill in other languages"""
