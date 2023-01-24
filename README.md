@@ -8,3 +8,5 @@ This Repositry consists of Python 3x version core programming from basic to adva
     . can acquire problem solving skills
     . You can get loads of python code examples
     . basic to advance
+    . prepare for problem solving exercies
+    . prepare for problem solving practice
